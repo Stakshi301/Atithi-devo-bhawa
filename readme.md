@@ -1,9 +1,9 @@
-# hello
+# hello (for heading)
 
-<p>f</p>
+<p>f</p> 
 
-+ dfd
-    + dfs 
++ dfd (for headings)
+    + dfs  (for sub-headings)
 
 
 ```js
